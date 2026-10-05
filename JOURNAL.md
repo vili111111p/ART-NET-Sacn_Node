@@ -19,6 +19,7 @@ It will have to ways one for Art-NEt and one for control. On the Artnet side i w
 It needs a 230V AC to 5V DC converter from the powerCON or truCON to the other electronics. It will be a bit dangerous to handle it, but i have to make it safe. I think i will use an IRM-20-5.
 
 powerCON connector
+
 <img width="638" height="480" alt="image" src="https://github.com/user-attachments/assets/f781bfdd-ef27-4457-b519-43e8163849f2" />
 
 #POE
