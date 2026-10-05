@@ -6,7 +6,17 @@ created_at: "2026-10-5"
 total_time: "1h"
 ---
 
-## Oct 5, 2026 (2. entry): Research Parts
+## Oct 5, 2026: Plans
+
+So i want to make a sturdy Art-Net and sACN node with 4 universe. I want it to have an etherCON for data input, maybe two, one for control and one for the lights with POE for power. I want it to have powerCON or truCON in and out, not sure which yet. I want it to have a battery for power failure. And for control interface i want a display with a pushable rotary encoder and also a web interface.
+
+The plan (something that looks like this (i hope)):
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/89ec921d-2b7a-4f64-bf24-cc041b52a621" />
+
+
+
+## Oct 5, 2026 (2. entry): Research and Parts
 
 #MCU
 For the MCU i choose an STM32F407 for its power and UART pins for the dmx outputs. I will see if it will work.
